@@ -1,6 +1,5 @@
 from tkinter import *
 
-
 class HelloApp:
 
     def __init__(self, master):

@@ -1,13 +1,14 @@
 from tkinter import *      
-    
+from tkinter import ttk
+ 
 root = Tk()
 
+s = StringVar()	
 w = Text(root,  width = 40, height = 10)
 w.pack()
 w.config(wrap = 'word')
 text= w.get('1.0', 'end')
-
-# print(w.get('1.0', '1.end'))
+print(w.get('1.0', '1.end'))
 # w.insert('1.0 + 2 lines', 'Inserted message')
 # w.insert('1.0 + 2 lines lineend', ' and\nmore and\nmore.')
 # w.delete('1.0')

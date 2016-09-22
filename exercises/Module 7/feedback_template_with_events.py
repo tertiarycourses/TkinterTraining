@@ -20,7 +20,7 @@ class Feedback:
         self.frame_header = Frame(master)
         self.frame_header.pack()
         
-        self.logo = PhotoImage(file = 'tour_logo.gif')
+        self.logo = PhotoImage(file = '../images/tour_logo.gif')
         Label(self.frame_header, image = self.logo).grid(row = 0, column = 0, rowspan = 2)
         Label(self.frame_header, text = 'Thanks for Exploring!').grid(row = 0, column = 1)
         Label(self.frame_header, wraplength = 300,
@@ -60,7 +60,7 @@ class Feedback:
 def main():            
     
     root = Tk()
-    feedback = Feedback(root)
+    app = Feedback(root)
     root.mainloop()
     
 if __name__ == "__main__": main()
