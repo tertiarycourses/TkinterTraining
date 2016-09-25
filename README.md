@@ -1,7 +1,7 @@
 # Python GUI Development with Tkinter Training
 ## by [Tertiary Infotech Pte. Ltd] (https://www.tertiarycourses.com.sg/)
 
-This are the exercise files used for [Python GUI Development with Tkinter Trainings](https://www.tertiarycourses.com.sg/python-gui-development-with-tkinter.html) course. 
+These are the exercise files used for [Python GUI Development with Tkinter Trainings](https://www.tertiarycourses.com.sg/python-gui-development-with-tkinter.html) course. 
 
 The course outline can be found in 
 
