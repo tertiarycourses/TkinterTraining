@@ -1,4 +1,4 @@
-This is the exercise files used for <a href="https://www.tertiarycourses.com.sg/python-gui-development-with-tkinter.html">Python GUI Development with Tkinter Training</a> course by <a href="https://www.tertiarycourses.com.sg/">Tertiary Infotech Pte. Ltd.</a>
+This is the exercise files used for <a target="_blank" href="https://www.tertiarycourses.com.sg/python-gui-development-with-tkinter.html">Python GUI Development with Tkinter Training</a> course by <a target="_blank" title="Adult Learning Courses in Singapore" href="https://www.tertiarycourses.com.sg/">Tertiary Infotech Pte. Ltd.</a>
 
 The course outline can be found in 
 
@@ -70,4 +70,4 @@ https://www.tertiarycourses.com.sg/python-gui-development-with-tkinter.html
 <li>Step 3: Layout Widgets</li>
 <li>Step 4: Binding to Events</li>
 </ul>
-<p>&gt;</p>
+
